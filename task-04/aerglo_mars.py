@@ -17,7 +17,7 @@ data = json.loads(r.text)
 
 # looping to search the photo id
 for i in range(len(data["photos"])):
-    #if user input id and id stored in data are same, we can get the link of the img as output
+    #if user input id and id stored in data are same, we can get the link of the img
     if ID == data["photos"][i]["id"]:
         img = data["photos"][i]["img_src"]
         # downloading the img
