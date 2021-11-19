@@ -18,7 +18,7 @@
 [Task-12](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-12)|Make a Block|Not Attempted Till Yet 
 [Task-13](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-13)|Circuit Design(Arduino)|Not Attempted Till Yet
 [Task-14](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-14)|Bandit|Completed
-[Task-15](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-15)|Project Euler|Done Three Questions
+[Task-15](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-15)|Project Euler|Completed
 ## My views about the tasks
 I myself,have not completed the tasks, so I cannot say at overall level. It took time for me to start the tasks as I didn't know how to start or where
 to start.I got tensed at first sight. I read the tasks more than once to get a start, looking for the easiest 😅. It taught me how to learn by self at an extent.
