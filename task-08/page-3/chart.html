@@ -1,0 +1,40 @@
+<html>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+<script src="data.js"></script>
+
+<body>
+
+<canvas id="myChart" style="width:100%;max-width:600px"></canvas>
+
+<script>
+//Chart Js Implementation or you can use any other library also [https://www.npmjs.com/search?q=HTML5%20charts]
+    var details = getRandomJson();
+    var xValues=[],yValues=[];
+    var barColors = ["red", "green","blue","orange","brown"];
+    for (let i = 0;i < 5; i++){
+        xValues.push(details[i].pizza);
+        yValues.push(details[i].sold);
+    }
+    new Chart("myChart", {
+        type: "bar",
+        data: {
+          labels: xValues,
+          datasets: [{
+            backgroundColor: barColors,
+            data: yValues
+          }]
+        },
+        options: {
+          legend: {display: false},
+          title: {
+            display: true,
+            text: "Pizza Sales"
+          }
+        }
+      });
+
+</script>
+<!--Visualise the chart based on the data from data.js-->
+<center><h3>Place your graph here</h3></center>
+</body>
+</html>
