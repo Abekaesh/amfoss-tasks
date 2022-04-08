@@ -8,7 +8,7 @@
 [Task-02](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-02)|Begin your journey with linux and git|Completed
 [Task-03](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-03)|Programming|Done Three Questions
 [Task-04](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-04)|Aerglo Mars|Completed
-[Task-05](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-05)|Let Me C|Attempted
+[Task-05](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-05)|Let Me C|Completed
 [Task-06](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-06)|Flutter based UI task|Not Attempted Till Yet
 [Task-07](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-07)|Rich Scraper|Not Attempted Till Yet
 [Task-08](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-08)|JS Explorer|Completed
