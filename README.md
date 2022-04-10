@@ -10,7 +10,7 @@
 [Task-04](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-04)|Aerglo Mars|Completed
 [Task-05](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-05)|Let Me C|Completed
 [Task-06](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-06)|Flutter based UI task|Not Attempted Till Yet
-[Task-07](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-07)|Rich Scraper|Not Attempted Till Yet
+[Task-07](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-07)|Rich Scraper|Tried many times
 [Task-08](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-08)|JS Explorer|Completed
 [Task-09](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-09)|Setup a Simple Personal Website|Not Attempted Till Yet
 [Task-10](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-10)|CS50|Completed
