@@ -14,7 +14,7 @@
 [Task-08](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-08)|Internet Explorer|Completed
 [Task-09](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-09)|Krypto Scrapper|Half Complete
 [Task-10](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-10)|CS50|Completed
-[Task-11](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-11)|Figma Ninja|Inomplete
+[Task-11](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-11)|Figma Ninja|Incomplete
 [Task-12](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-12)|Bunny Heist|Incomplete 
 [Task-13](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-13)|Footfall counter|Incomplete
 [Task-14](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-14)|Bandit|Completed
