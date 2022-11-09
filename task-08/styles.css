@@ -1,0 +1,83 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  font-family: 'Titan One', 'cursive';
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+.w.drum {
+  background: #0000ff;
+  box-shadow: 2px 4px #fff;
+}
+
+.a.drum {
+  background: #00ff00;
+  box-shadow: 2px 4px #fff;
+}
+
+.s.drum {
+  background: #990000;
+  box-shadow: 2px 4px #fff;
+}
+
+.d.drum {
+  background: #283149;
+  box-shadow: 2px 4px #fff;
+}
+
+.j.drum {
+  background: #abcdef;
+  box-shadow: 2px 4px #fff;
+}
+
+.k.drum {
+  background: #fedcba;
+  box-shadow: 2px 4px #fff;
+}
+
+.l.drum {
+  background: orange;
+  box-shadow: 2px 4px #fff;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Josephin Sans', sans-serif;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
