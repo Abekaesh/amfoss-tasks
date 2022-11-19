@@ -1,2 +1,2 @@
 # Install Ubuntu 20.04 [Desktop]
-This was an easy task as I had dual booted Ubuntu with Windows 10.
+I have done this task successfully without a mistake by referring a video.I dual booted Ubuntu with Windows 10.
