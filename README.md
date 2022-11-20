@@ -21,8 +21,8 @@
 [Task-15](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-15)|Project Euler|Completed
 ## My views about the tasks
 I myself,have not completed the tasks, so I cannot say at overall level. I read the tasks more than once to get a start, looking for the easiest 😅. It taught me how to learn by self at an extent.
-I have seen a lot of changes after doing these tasks. The tasks was an extra level of learning for the freshers like me. 
+I have seen a lot of changes after doing these tasks. The tasks was an extra level of learning for me. 
 ## My Introduction
 Hello Seniors!
 🙏 I am P A Abekaesh from Muvattupuzha, Kerala. I am an explorer in the field of coding. I started to know about my interest in computer science from class 11.
-I am exploring all the domains in CS like Web Development, Blockchain Technology, Data Science,etc to know which domain suits me. To enhance the knowledge and skills, I create projects as well as participate in hackathons.
+I am exploring all the domains in CS like Web Development, Blockchain Technology, Data Science,etc to know which domain suits me. To enhance the knowledge and skills, I create projects as well as participate in hackathons. 
